@@ -905,6 +905,13 @@
   }
 
 /*------------------------ Search Section------------------------------------ */
+  
+  #mistak,#req{
+    display: none;
+  }
+
+
+
   .SearchBlok{
     background-Color:rgba(165, 42, 42 , 0.8);
     width:70%;
